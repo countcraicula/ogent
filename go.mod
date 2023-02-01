@@ -1,4 +1,4 @@
-module ariga.io/ogent
+module guthub.com/countcraicula/ogent
 
 go 1.19
 
